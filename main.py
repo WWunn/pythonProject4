@@ -1,7 +1,9 @@
 import sys
 
 print(sys.version)
-
-
-printf("diversification")
+a=124
+a=input("wpisz a brudasie")
+a=float(a)
+print("dupa diabla",a)
+print("diversification =",a*a)
 
